@@ -1,0 +1,59 @@
+	Demystifying Fog Systems Interaction via Container based benchmarking.
+	Created by: Jonathan McChesney, student at Queen's University Belfast
+	CSC4006 Final Year Research and Development Project
+
+*****************************************************************************
+*****************************************************************************
+
+Edge Only Benchmarks: 
+*****************************************************************************
+
+Transfer edge action results to edge device: completed in .320318748 secs
+
+FogLAMP Benchmarks:
+*****************************************************************************
+
+FogLAMP Benchmark Run 1:
+
+Total bytes transferred from the edge: 2896 bytes
+Transfer edge application results to edge device: completed in .309076713 secs
+Transfer rate from the edge: 9369.8421077747 bytes per second
+
+Round Trip Time: 99.557779444 secs
+Edge cost for application computation (estimated £0.008 per hour): £.0002199978
+
+FogLAMP Benchmark Run 2:
+
+Total bytes transferred from the edge: 2896 bytes
+Transfer edge application results to edge device: completed in .324258498 secs
+Transfer rate from the edge: 8931.1460389235 bytes per second
+
+Round Trip Time: 99.600607144 secs
+Edge cost for application computation (estimated £0.008 per hour): £.0002199978
+
+FogLAMP Benchmark Run 3:
+
+Total bytes transferred from the edge: 2896 bytes
+Transfer edge application results to edge device: completed in .316014846 secs
+Transfer rate from the edge: 9164.1264220858 bytes per second
+
+Round Trip Time: 99.589288669 secs
+Edge cost for application computation (estimated £0.008 per hour): £.0002199978
+
+FogLAMP Benchmark Run 4:
+
+Total bytes transferred from the edge: 2896 bytes
+Transfer edge application results to edge device: completed in .360646660 secs
+Transfer rate from the edge: 8030.0202974290 bytes per second
+
+Round Trip Time: 99.732764325 secs
+Edge cost for application computation (estimated £0.008 per hour): £.0002199978
+
+FogLAMP Benchmark Run 5:
+
+Total bytes transferred from the edge: 2896 bytes
+Transfer edge application results to edge device: completed in .353917422 secs
+Transfer rate from the edge: 8182.6997485306 bytes per second
+
+Round Trip Time: 99.738678551 secs
+Edge cost for application computation (estimated £0.008 per hour): £.0002199978

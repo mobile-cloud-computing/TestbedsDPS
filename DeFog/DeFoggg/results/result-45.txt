@@ -1,0 +1,41 @@
+	Demystifying Fog Systems Interaction via Container based benchmarking.
+	Created by: Jonathan McChesney, student at Queen's University Belfast
+	CSC4006 Final Year Research and Development Project
+
+*****************************************************************************
+*****************************************************************************
+
+Edge Only Benchmarks: 
+*****************************************************************************
+
+Transfer edge action results to edge device: completed in .329326247 secs
+
+YOLO Benchmarks:
+*****************************************************************************
+
+YOLO Benchmark Run 1:
+
+Total bytes transferred from the edge: 3528 bytes
+Transfer edge application results to edge device: completed in .266485568 secs
+Transfer rate from the edge: 13238.9908634752 bytes per second
+
+Round Trip Time: 99.648376679 secs
+Edge cost for application computation (estimated £0.008 per hour): £.0002199978
+
+YOLO Benchmark Run 2:
+
+Total bytes transferred from the edge: 3528 bytes
+Transfer edge application results to edge device: completed in .270249320 secs
+Transfer rate from the edge: 13054.6119412992 bytes per second
+
+Round Trip Time: 99.646857216 secs
+Edge cost for application computation (estimated £0.008 per hour): £.0002199978
+
+YOLO Benchmark Run 3:
+
+Total bytes transferred from the edge: 3528 bytes
+Transfer edge application results to edge device: completed in .257451386 secs
+Transfer rate from the edge: 13703.5579991012 bytes per second
+
+Round Trip Time: 99.638259955 secs
+Edge cost for application computation (estimated £0.008 per hour): £.0002199978

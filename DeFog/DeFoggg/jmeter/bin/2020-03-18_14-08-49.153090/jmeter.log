@@ -1,0 +1,71 @@
+2020-03-18 14:09:34,946 INFO o.a.j.u.JMeterUtils: Setting Locale to en_US
+2020-03-18 14:09:35,039 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2020-03-18 14:09:35,039 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2020-03-18 14:09:35,040 INFO o.a.j.JMeter: Loading additional properties from: /home/farooq/DeFog/DeFog/jmeter/bin/2020-03-18_14-08-49.153090/jmeter-bzt.properties
+2020-03-18 14:09:35,052 INFO o.a.j.JMeter: Copyright (c) 1998-2019 The Apache Software Foundation
+2020-03-18 14:09:35,052 INFO o.a.j.JMeter: Version 5.1.1 r1855137
+2020-03-18 14:09:35,053 INFO o.a.j.JMeter: java.version=11.0.6
+2020-03-18 14:09:35,053 INFO o.a.j.JMeter: java.vm.name=OpenJDK 64-Bit Server VM
+2020-03-18 14:09:35,053 INFO o.a.j.JMeter: os.name=Linux
+2020-03-18 14:09:35,053 INFO o.a.j.JMeter: os.arch=amd64
+2020-03-18 14:09:35,053 INFO o.a.j.JMeter: os.version=5.3.0-40-generic
+2020-03-18 14:09:35,053 INFO o.a.j.JMeter: file.encoding=UTF-8
+2020-03-18 14:09:35,053 INFO o.a.j.JMeter: java.awt.headless=true
+2020-03-18 14:09:35,053 INFO o.a.j.JMeter: Max memory     =1252851712
+2020-03-18 14:09:35,055 INFO o.a.j.JMeter: Available Processors =1
+2020-03-18 14:09:35,069 INFO o.a.j.JMeter: Default Locale=English (United States)
+2020-03-18 14:09:35,069 INFO o.a.j.JMeter: JMeter  Locale=English (United States)
+2020-03-18 14:09:35,069 INFO o.a.j.JMeter: JMeterHome=/home/farooq/.bzt/jmeter-taurus/5.1.1
+2020-03-18 14:09:35,069 INFO o.a.j.JMeter: user.dir  =/home/farooq/DeFog/DeFog/jmeter/bin
+2020-03-18 14:09:35,070 INFO o.a.j.JMeter: PWD       =/home/farooq/DeFog/DeFog/jmeter/bin
+2020-03-18 14:09:35,074 INFO o.a.j.JMeter: IP: 127.0.1.1 Name: farooq-VirtualBox FullName: farooq-VirtualBox
+2020-03-18 14:09:35,075 INFO o.a.j.JMeter: user.classpath=/home/farooq/DeFog/DeFog/jmeter/bin/2020-03-18_14-08-49.153090:/home/farooq/DeFog/DeFog/assets/ipokemon-assets
+2020-03-18 14:09:35,075 INFO o.a.j.JMeter: Adding to classpath and loader: /home/farooq/DeFog/DeFog/jmeter/bin/2020-03-18_14-08-49.153090
+2020-03-18 14:09:35,077 INFO o.a.j.JMeter: Adding to classpath and loader: /home/farooq/DeFog/DeFog/assets/ipokemon-assets
+2020-03-18 14:09:35,089 INFO o.a.j.s.FileServer: Default base='/home/farooq/DeFog/DeFog/jmeter/bin'
+2020-03-18 14:09:35,096 INFO o.a.j.s.FileServer: Set new base='/home/farooq/DeFog/DeFog/assets/ipokemon-assets'
+2020-03-18 14:09:35,380 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2020-03-18 14:09:35,478 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2020-03-18 14:09:35,495 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2020-03-18 14:09:35,517 INFO o.a.j.s.SaveService: Loading file: /home/farooq/DeFog/DeFog/assets/ipokemon-assets/modified_iPokemon.jmx
+2020-03-18 14:09:35,658 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2020-03-18 14:09:35,658 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2020-03-18 14:09:35,658 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2020-03-18 14:09:35,665 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2020-03-18 14:09:35,665 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2020-03-18 14:09:35,665 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2020-03-18 14:09:35,930 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2020-03-18 14:09:35,944 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2020-03-18 14:09:35,944 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2020-03-18 14:09:35,964 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2020-03-18 14:09:35,964 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2020-03-18 14:09:36,801 INFO o.a.j.JMeter: Running test (1584533376801)
+2020-03-18 14:09:36,874 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : ipokemon
+2020-03-18 14:09:36,874 INFO o.a.j.e.StandardJMeterEngine: Starting 5 threads for group ipokemon.
+2020-03-18 14:09:36,874 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2020-03-18 14:09:36,874 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=5 ramp-up=0 delayedStart=false
+2020-03-18 14:09:36,935 INFO o.a.j.t.JMeterThread: Thread started: ipokemon 1-2
+2020-03-18 14:09:36,950 INFO o.a.j.t.JMeterThread: Thread started: ipokemon 1-1
+2020-03-18 14:09:36,963 INFO o.a.j.t.JMeterThread: Thread started: ipokemon 1-3
+2020-03-18 14:09:36,967 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2020-03-18 14:09:36,967 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2020-03-18 14:09:36,973 INFO o.a.j.t.JMeterThread: Thread started: ipokemon 1-4
+2020-03-18 14:09:36,999 INFO o.a.j.t.JMeterThread: Thread started: ipokemon 1-5
+2020-03-18 14:09:37,029 INFO o.a.j.p.h.s.HTTPHCAbstractImpl: Local host = farooq-VirtualBox
+2020-03-18 14:09:37,043 INFO o.a.j.p.h.s.HTTPHC4Impl: HTTP request retry count = 0
+2020-03-18 14:09:37,044 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2020-03-18 14:09:37,045 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to UTF-8
+2020-03-18 14:09:37,045 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2020-03-18 14:09:37,045 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2020-03-18 14:14:36,875 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: ipokemon 1-1
+2020-03-18 14:14:36,876 INFO o.a.j.t.JMeterThread: Thread finished: ipokemon 1-1
+2020-03-18 14:14:36,904 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: ipokemon 1-3
+2020-03-18 14:14:36,904 INFO o.a.j.t.JMeterThread: Thread finished: ipokemon 1-3
+2020-03-18 14:14:36,946 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: ipokemon 1-5
+2020-03-18 14:14:36,946 INFO o.a.j.t.JMeterThread: Thread finished: ipokemon 1-5
+2020-03-18 14:14:37,015 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: ipokemon 1-2
+2020-03-18 14:14:37,017 INFO o.a.j.t.JMeterThread: Thread finished: ipokemon 1-2
+2020-03-18 14:14:37,772 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: ipokemon 1-4
+2020-03-18 14:14:37,773 INFO o.a.j.t.JMeterThread: Thread finished: ipokemon 1-4
+2020-03-18 14:14:37,775 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2020-03-18 14:14:37,778 INFO o.a.j.e.StandardJMeterEngine: Forced JVM shutdown requested at end of test

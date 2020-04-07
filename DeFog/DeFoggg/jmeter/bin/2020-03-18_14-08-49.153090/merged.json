@@ -1,0 +1,22 @@
+{
+ "execution": [
+  {
+   "scenario": {
+    "script": "../../assets/ipokemon-assets/iPokemon.jmx"
+   }, 
+   "executor": "jmeter"
+  }
+ ], 
+ "reporting": [
+  {
+   "dump-csv": "taurusreport.csv", 
+   "summary-labels": true, 
+   "module": "final-stats", 
+   "summary": true, 
+   "test-duration": true, 
+   "percentiles": true, 
+   "dump-xml": "taurusreport.xml", 
+   "failed-labels": true
+  }
+ ]
+}
